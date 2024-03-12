@@ -1,0 +1,10 @@
+requests
+aiohttp
+matplotlib
+skew
+numpy 
+seaborn
+pandas
+
+
+
